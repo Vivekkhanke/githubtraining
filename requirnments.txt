@@ -5,3 +5,5 @@ This is chat application :
             Colors
             Vibrants
             
+            Dark mode
+            
