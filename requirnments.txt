@@ -6,4 +6,9 @@ This is chat application :
             Vibrants
             
             Dark mode
+            video call
+            audio call
             
+            Payments options
+            Send money 
+            Received money
